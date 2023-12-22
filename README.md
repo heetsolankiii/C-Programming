@@ -1,2 +1,2 @@
 # C-Programming
-This is my first Git Repository.
+This Repository contains the code for important questions which are a bit complex.
