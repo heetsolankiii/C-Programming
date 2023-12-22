@@ -1,8 +1,6 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
-clrscr();
 int temp,rem=0,sum=0,n;
 printf("Enter a number - ");
 scanf("%d",&n);
@@ -21,5 +19,4 @@ else
 {
 	printf("%d is not an Armstrong Number.",temp);
 }
-getch();
 }
