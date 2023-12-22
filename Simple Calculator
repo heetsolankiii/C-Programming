@@ -1,8 +1,6 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
-clrscr();
 float num1,num2,sum;
 char operation;
 printf("==x==SIMPLE CALCULATOR==x==\n");
@@ -55,5 +53,4 @@ while(num1>=0 || num2>=0)
 		break;
 	}
 }
-getch();
 }
