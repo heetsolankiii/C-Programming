@@ -7,10 +7,10 @@ scanf("%d",&n);
 i=n;
 while(n!=0)
 {
-rem=n%2;
-sum=(rem*up)+sum;
-up=up*10;
-n=n/2;
+	rem=n%2;
+	sum=(rem*up)+sum;
+	up=up*10;
+	n=n/2;
 }
 printf("Binary Conversion of %d is %d.",i,sum);
 }
