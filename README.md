@@ -1,4 +1,4 @@
-![C-Programming]((https://www.programmerspoint.in/images/c-programming-course.png))
+![C-Programming](https://www.programmerspoint.in/images/c-programming-course.png)
 # C-Programming
 This Repository contains the code for important questions which are a bit complex.
 <br>
